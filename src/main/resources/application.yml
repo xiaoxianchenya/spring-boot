@@ -1,0 +1,13 @@
+#端口号
+server:
+  port: 9090
+#数据库连接信息
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring-vue-demo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 1318220327
+
+
+
